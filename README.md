@@ -1,5 +1,4 @@
 # Data Science Immersive (DSI6) Project 1
-*** note misnomer of title, this is an EDA project of SAT vs ACT test scores ***
 ## Katy Chow
 
 ### Problem Statement
